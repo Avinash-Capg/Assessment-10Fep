@@ -1,0 +1,14 @@
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/bin/Debug/net8.0/UniverSity Course Registration System
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/bin/Debug/net8.0/UniverSity Course Registration System.deps.json
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/bin/Debug/net8.0/UniverSity Course Registration System.runtimeconfig.json
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/bin/Debug/net8.0/UniverSity Course Registration System.dll
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/bin/Debug/net8.0/UniverSity Course Registration System.pdb
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.AssemblyInfoInputs.cache
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.AssemblyInfo.cs
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.csproj.CoreCompileInputs.cache
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.dll
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/refint/UniverSity Course Registration System.dll
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.pdb
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/UniverSity Course Registration System.genruntimeconfig.cache
+/Users/avinashkumar/Desktop/UniverSity Course Registration System/UniverSity Course Registration System/obj/Debug/net8.0/ref/UniverSity Course Registration System.dll
